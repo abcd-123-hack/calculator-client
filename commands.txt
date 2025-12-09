@@ -1,0 +1,10 @@
+wsimport -keep -d src/main/java -p com.example.calculator.client http://localhost:8080/calculator-webservice-1.0/calculator?wsdl
+mvn clean compile exec:java -Dexec.mainClass="com.example.calculator.client.CalculatorClient"
+
+
+click Run
+Output (in IntelliJ terminal)
+add: 15
+sub: 5
+mul: 50
+div: 2

@@ -1,0 +1,13 @@
+com/example/calculator/client/OperatorService.class
+com/example/calculator/client/CalculatorClient.class
+com/example/calculator/client/ObjectFactory.class
+com/example/calculator/client/DivResponse.class
+com/example/calculator/client/MulResponse.class
+com/example/calculator/client/Div.class
+com/example/calculator/client/OperatorServiceService.class
+com/example/calculator/client/AddResponse.class
+com/example/calculator/client/package-info.class
+com/example/calculator/client/Sub.class
+com/example/calculator/client/Mul.class
+com/example/calculator/client/SubResponse.class
+com/example/calculator/client/Add.class
